@@ -51,6 +51,8 @@
         "test": "ant test"
     },
     "dependencies": {
+        "acorn": "^6.0.0",
+        "acorn-jsx": "^5.0.0",
         "build-gradle-reader": "*",
         "hoek": "^4.2.1",
         "ilib": "^13.2.0",
